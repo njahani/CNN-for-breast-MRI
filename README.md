@@ -10,4 +10,10 @@ The pipleline is included:
  4- Evaluating the models
 
 
-Loading Pre-procssing documents ... 
+1. Pre-procssing steps: 
+a) Bias MR correction
+b) Resize images 
+c) Normalize image
+d) Rescale images
+ 
+
